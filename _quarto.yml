@@ -13,9 +13,19 @@ website:
   navbar:
     left:
       - text: "Home"
-        href: content/index.qmd
+        href: index.qmd
       - text: "Criteria"
-        href: content/intro.qmd
+        menu:
+          - text: "Criterion 1"
+            href: criteria/criterion1.qmd
+          - text: "Criterion 2"
+            href: criteria/criterion2.qmd
+          - text: "Criterion 3"
+            href: criteria/criterion3.qmd
+          - text: "Criterion 4"
+            href: criteria/criterion4.qmd
+          - text: "Assumed Practices"
+            href: criteria/assumed_practices.qmd
     right:
       - icon: github
         href: https://github.com/Haywood-Community-College-IERG/hlc
@@ -29,7 +39,7 @@ typst:
   author: "Norah Jones"
   date: "11/20/2024"
 
-bibliography: ../references.bib
+bibliography: references.bib
 
 format:
   html:
