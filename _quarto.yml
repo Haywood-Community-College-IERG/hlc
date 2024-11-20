@@ -1,0 +1,46 @@
+project:
+  type: website
+  output-dir: _site
+
+website:
+  title: "Transition to HLC"
+
+  site-url: https://github.com/Haywood-Community-College-IERG/hlc/index.html
+  repo-url: https://github.com/Haywood-Community-College-IERG/hlc
+  favicon: /images/cover.png
+  image: /images/Clyde.png
+
+  navbar:
+    left:
+      - text: "Home"
+        href: content/index.qmd
+      - text: "Criteria"
+        href: content/intro.qmd
+    right:
+      - icon: github
+        href: https://github.com/Haywood-Community-College-IERG/hlc
+
+#pdf:
+#  author: "Norah Jones"
+#  date: "11/20/2024"
+
+typst:
+  title: "Transition to HLC"
+  author: "Norah Jones"
+  date: "11/20/2024"
+
+bibliography: ../references.bib
+
+format:
+  html:
+    theme: [cosmo, assets/custom_theme.scss]
+    toc: true
+    smooth-scroll: true
+    highlight: arrow
+    page-layout: full
+  #pdf:
+  #  documentclass: scrreprt
+  typst:
+    toc: true
+    section-numbering: 1.1.a
+
