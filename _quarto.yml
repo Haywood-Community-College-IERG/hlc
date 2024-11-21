@@ -38,7 +38,6 @@ website:
         href: about.qmd
 
     right:
-      search: true
       - icon: github
         menu:
           - text: "Source Code"
