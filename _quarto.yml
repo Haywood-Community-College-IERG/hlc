@@ -5,10 +5,17 @@ project:
 website:
   title: "Transition to HLC"
 
+  open-graph: true
+
   site-url: https://github.com/Haywood-Community-College-IERG/hlc/index.html
   repo-url: https://github.com/Haywood-Community-College-IERG/hlc
+  repo-actions: [edit, source, issue]
+  #issue-url: https://github.com/Haywood-Community-College-IERG/hlc/issues/new/choose
+
   favicon: /images/favicon.png
   #image: /images/Clyde.png
+
+  back-to-top-navigation: true
 
   navbar:
     left:
@@ -26,17 +33,21 @@ website:
             href: criteria/criterion4.qmd
           - text: "Assumed Practices"
             href: criteria/assumed_practices.qmd
+      - text: "About"
+        href: about.qmd
+        
     right:
+      search: true
       - icon: github
-        href: https://github.com/Haywood-Community-College-IERG/hlc
-
-#pdf:
-#  author: "Norah Jones"
-#  date: "11/20/2024"
+        menu:
+          - text: "Source Code"
+            href: https://github.com/Haywood-Community-College-IERG/hlc
+          - text: "Report a Bug/Suggest a Change"
+            href: https://github.com/Haywood-Community-College-IERG/hlc/issues/new/choose
 
 typst:
   title: "Transition to HLC"
-  author: "Norah Jones"
+  author: "David Onder"
   date: "11/20/2024"
 
 bibliography: references.bib

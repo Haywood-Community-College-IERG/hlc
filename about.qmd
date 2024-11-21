@@ -1,0 +1,21 @@
+---
+title: "About the creators"
+about:
+  template: jolla
+  image: accreditation.jpg
+---
+
+These pages were created after an over year-long process to understand the Higher Learning Commission criterion and policies by a group of community college leaders in North Carolina. Many thoughts and ideas were shared and debated. The final product is a reflection of the collective wisdom of the group.
+
+A huge thank you to the following individuals who contributed to the creation of this website (in alphabetical order by last name):
+
+- Erica Caracoglia, Associate Vice President of Institutional Effectiveness and Research and Accreditation Liaison, Martin Community College
+- Reinishia Gonzalez, Director of Institutional Effectiveness and Accreditation Liaison, Edgecombe Community College
+- Dr. Jessica Harrell, Director of Planning, Research, and Institutional Effectiveness, Blue Ridge Community College
+- Dr. Kevin Lee, Vice President of Academic Affairs and Accreditation Liaison, Brunswick Community College
+- Dr. Chad Merrill, Vice President and Accreditation Liaison, Blue Ridge Community College
+- Dr. Kimberly Mullis, Dean of Institutional Effectiveness and Accreditation Liaison, Beaufort County Community College
+- Rebecca Nichol, Assessment and Research Analyst, Haywood Community College
+- David Onder, Director of Institutional Excellence, Research, and Grants and Accreditation Liaison, Haywood Community College
+- Dr. Dustin Walston, Vice President of Curriculum and Accreditation Liaison, James Sprunt Community College
+- Dr. Crystal White, Dean of Institutional Effectiveness and Strategic Initiatives, James Sprunt Community College
