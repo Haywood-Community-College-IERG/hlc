@@ -7,13 +7,20 @@ website:
 
   open-graph: true
 
+  open-graph: true
+
   site-url: https://github.com/Haywood-Community-College-IERG/hlc/index.html
   repo-url: https://github.com/Haywood-Community-College-IERG/hlc
   repo-actions: [edit, source, issue]
   #issue-url: https://github.com/Haywood-Community-College-IERG/hlc/issues/new/choose
 
+  repo-actions: [edit, source, issue]
+  #issue-url: https://github.com/Haywood-Community-College-IERG/hlc/issues/new/choose
+
   favicon: /images/favicon.png
   #image: /images/Clyde.png
+
+  back-to-top-navigation: true
 
   back-to-top-navigation: true
 
@@ -38,7 +45,13 @@ website:
         href: about.qmd
 
     right:
+      search: true
       - icon: github
+        menu:
+          - text: "Source Code"
+            href: https://github.com/Haywood-Community-College-IERG/hlc
+          - text: "Report a Bug/Suggest a Change"
+            href: https://github.com/Haywood-Community-College-IERG/hlc/issues/new/choose
         menu:
           - text: "Source Code"
             href: https://github.com/Haywood-Community-College-IERG/hlc
@@ -47,6 +60,7 @@ website:
 
 typst:
   title: "Transition to HLC"
+  author: "David Onder"
   author: "David Onder"
   date: "11/20/2024"
 
