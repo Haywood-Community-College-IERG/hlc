@@ -7,8 +7,6 @@ website:
 
   open-graph: true
 
-  open-graph: true
-
   site-url: https://github.com/Haywood-Community-College-IERG/hlc/index.html
   repo-url: https://github.com/Haywood-Community-College-IERG/hlc
   repo-actions: [edit, source, issue]
@@ -19,8 +17,6 @@ website:
 
   favicon: /images/favicon.png
   #image: /images/Clyde.png
-
-  back-to-top-navigation: true
 
   back-to-top-navigation: true
 
@@ -60,7 +56,6 @@ website:
 
 typst:
   title: "Transition to HLC"
-  author: "David Onder"
   author: "David Onder"
   date: "11/20/2024"
 
