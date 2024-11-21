@@ -6,6 +6,8 @@
 .httr-oauth
 .DS_Store
 .quarto
+.vscode
+*.code-workspace
 
 /.quarto/
 /_site/

@@ -7,8 +7,8 @@ website:
 
   site-url: https://github.com/Haywood-Community-College-IERG/hlc/index.html
   repo-url: https://github.com/Haywood-Community-College-IERG/hlc
-  favicon: /images/cover.png
-  image: /images/Clyde.png
+  favicon: /images/favicon.png
+  #image: /images/Clyde.png
 
   navbar:
     left:
