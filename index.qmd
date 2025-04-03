@@ -1,5 +1,7 @@
-# Preface {.unnumbered}
+---
+title: Transition to HLC
+---
 
-This is a Quarto book. I am adding a line here.
+# Transitioning from SACSCOC to HLC {.unnumbered}
 
-To learn more about Quarto books visit <https://quarto.org/docs/books>.
+This is a for institutions that are transitioning from SACSCOC Standards to HLC Criterion. Choose the relevant section from the menu above to see details regarding each portion of the accredition requirements for HLC.

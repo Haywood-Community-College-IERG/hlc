@@ -59,9 +59,11 @@ format:
     smooth-scroll: true
     highlight: arrow
     page-layout: full
-  #pdf:
-  #  documentclass: scrreprt
-  typst:
+  pdf:
+    documentclass: scrreprt
     toc: true
     section-numbering: 1.1.a
+  # typst:
+  #   toc: true
+  #   section-numbering: 1.1.a
 

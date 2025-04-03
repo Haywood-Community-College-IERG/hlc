@@ -1,0 +1,412 @@
+/*-- scss:defaults --*/
+
+// use litera as the base
+// https://github.com/thomaspark/bootswatch/tree/v5/dist/litera
+$theme: "litera" !default;
+// $theme: "HLC_custom" !default;
+
+
+//$primary:       --brand-blue !default;
+//$secondary:     --brand-gray-600 !default;
+//$success:       --brand-green !default;
+//$info:          --brand-cyan !default;
+//$warning:       --brand-orange !default;
+//$danger:        --brand-red !default;
+//$light:         --brand-gray-200 !default;
+//$dark:          --brand-darkgreen !default; /* $gray-800 */
+//$dark:          --brand-dark !default;
+
+$min-contrast-ratio:   2 !default;
+
+// Body
+
+$body-color:                --brand-black !default; /* $gray-800 */
+
+// Links
+
+$link-color:                --brand-lightgreen !default;
+
+// Fonts
+
+// stylelint-disable-next-line value-keyword-case
+$font-family-sans-serif:      Roboto, -apple-system, BlinkMacSystemFont, "Segoe UI", "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol" !default;
+$headings-font-weight:        400 !default;
+
+// Dropdowns
+
+$dropdown-link-color:               --brand-gray-600 !default;
+$dropdown-link-hover-color:         $dropdown-link-color !default;
+$dropdown-link-hover-bg:            --brand-gray-200 !default;
+$dropdown-link-active-color:        $dropdown-link-color !default;
+$dropdown-link-active-bg:           $dropdown-link-hover-bg !default;
+
+// Navs
+
+$nav-link-padding-x:                .9rem !default;
+$nav-link-disabled-color:           --brand-gray-300 !default;
+$nav-tabs-border-color:             --brand-gray-300 !default;
+$nav-tabs-link-hover-border-color:  --brand-gray-300 !default;
+$nav-tabs-link-active-bg:           --brand-white !default;
+$nav-pills-link-active-color:       --brand-gray-600 !default;
+$nav-pills-link-active-bg:          --brand-gray-200 !default;
+
+// Navbar
+
+// ERROR: The following 2 give an error for the --brand-... variables not being colors
+//$navbar-fg:                         --brand-white !default; 
+//$navbar-hl:                         --brand-tan !default;
+
+//.navbar li.nav-item a.nav-link span{
+//  color: --brand-white; /* Home Requirements QEP Documents */
+//}
+
+// Sidebar
+
+$sidebar-fg:                        --brand-white !default; 
+$sidebar-active-color:              --brand-tan !default;
+$sidebar-hover-color:               --brand-lightgreen !default;
+
+// Pagination
+
+$pagination-color:                  --brand-gray-600 !default;
+$pagination-bg:                     --brand-gray-200 !default;
+$pagination-border-color:           --brand-gray-300 !default;
+$pagination-hover-color:            $pagination-color !default;
+$pagination-active-color:           $pagination-color !default;
+$pagination-active-bg:              --brand-gray-300 !default;
+$pagination-active-border-color:    --brand-gray-300 !default;
+$pagination-disabled-color:         --brand-gray-300 !default;
+$pagination-disabled-bg:            --brand-gray-200 !default;
+$pagination-disabled-border-color:  $pagination-border-color !default;
+
+// Cards
+
+//$card-border-color:                 rgba(--brand-gray-300, .75) !default;
+//$card-cap-bg:                       rgba(--brand-gray200, .25) !default;
+
+// Popovers
+
+$popover-header-bg:                 --brand-gray-200 !default;
+
+// Modals
+
+$modal-content-border-color:        --brand-gray-300 !default;
+$modal-header-border-color:         $modal-content-border-color !default;
+
+// Progress bars
+
+$progress-bg:                       --brand-gray-300 !default;
+$progress-border-radius:            10px !default;
+$progress-bar-color:                --brand-primary !default;
+
+// List group
+
+$list-group-border-color:           --brand-gray-300 !default;
+$list-group-hover-bg:               --brand-gray-200 !default;
+$list-group-active-color:           $body-color !default;
+$list-group-active-bg:              --brand-gray-200 !default;
+$list-group-active-border-color:    --brand-gray-300 !default;
+$list-group-disabled-color:         --brand-gray-500 !default;
+$list-group-disabled-bg:            --brand-white !default;
+$list-group-action-color:           $list-group-active-color !default;
+$list-group-action-active-color:    $list-group-active-color !default;
+$list-group-action-active-bg:       --brand-gray-300 !default;
+
+// Breadcrumbs
+
+$breadcrumb-padding-y:              .375rem !default;
+$breadcrumb-padding-x:              .75rem !default;
+$breadcrumb-bg:                     --brand-gray-700 !default;
+$breadcrumb-border-radius:          .25rem !default;
+
+// Close
+
+$btn-close-color:            --brand-white !default;
+$btn-close-opacity:          .8 !default;
+$btn-close-hover-opacity:    1 !default;
+
+
+
+/*-- scss:rules --*/
+
+
+// Variables
+
+$web-font-path: "https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap" !default;
+@if $web-font-path {
+  @import url($web-font-path);
+}
+
+// Navbar
+
+.HLC_custom {
+  font-size: 13px;
+  font-weight: 500;
+  line-height: 22px;
+  text-transform: uppercase;
+}
+
+.navbar {
+  .nav-link {
+    @extend .HLC_custom;
+  }
+
+  &-form input,
+  &-form .form-control {
+    border: none;
+  }
+}
+
+// Navbar Logo Positioning
+
+.navbar-brand {
+  max-height: unset;
+  margin: -1px;
+  margin-right: 10px;
+}
+
+.navbar-logo {
+  max-height: unset;
+  max-width: unset;
+  height: unset;
+  width: 200px;
+  margin-top: -20px;
+  margin-left: -20px;
+  margin-bottom: -20px;
+}
+
+// Buttons
+
+.btn {
+  @extend .HLC_custom;
+
+  &:hover {
+    border-color: transparent; 
+  }
+
+  &-success,
+  &-warning {
+    color: --brand-white;
+  }
+}
+
+// Tables
+
+.table {
+  .thead-dark th {
+    background-color: $dark;
+  }
+}
+
+// Forms
+
+input,
+.form-control {
+  @include box-shadow(none);
+
+  &:focus {
+    @include box-shadow(none);
+  }
+}
+
+// Navs
+
+.nav-tabs {
+  .nav-link {
+    @extend .HLC_custom;
+    background-color: --brand-gray-200;
+    border-color: --brand-gray-300;
+  }
+
+  .nav-link,
+  .nav-link:hover,
+  .nav-link:focus {
+    color: --brand-gray-600;
+  }
+
+  .nav-link.disabled,
+  .nav-link.disabled:hover,
+  .nav-link.disabled:focus {
+    color: $nav-link-disabled-color;
+    background-color: --brand-gray-200;
+    border-color: --brand-gray-300;
+  }
+}
+
+.nav-pills {
+  .nav-link {
+    @extend .HLC_custom;
+    color: --brand-gray-600;
+    border: 1px solid transparent;
+  }
+
+  .nav-link.active,
+  .nav-link:hover,
+  .nav-link:focus {
+    background-color: --brand-gray-200;
+    border-color: --brand-gray-300;
+  }
+
+  .nav-link.disabled,
+  .nav-link.disabled:hover {
+    color: --brand-gray-300;
+    background-color: transparent;
+    border-color: transparent;
+  }
+}
+
+
+.breadcrumb {
+  @extend .HLC_custom;
+  border: 1px solid --brand-gray-300;
+}
+
+.pagination {
+  @extend .HLC_custom;
+
+  a:hover {
+    text-decoration: none;
+  }
+}
+
+.dropdown-menu {
+  .dropdown-item {
+    @extend .HLC_custom;
+  }
+}
+
+// Indicators
+
+.alert {
+  color: --brand-white;
+
+  a,
+  .alert-link {
+    color: --brand-white;
+    text-decoration: underline;
+  }
+
+  &-primary {
+    &,
+    > th,
+    > td {
+      background-color: $primary;
+    }
+  }
+
+  &-secondary {
+    &,
+    > th,
+    > td {
+      background-color: $secondary;
+    }
+  }
+
+  &-success {
+    &,
+    > th,
+    > td {
+      background-color: $success;
+    }
+  }
+
+  &-info {
+    &,
+    > th,
+    > td {
+      background-color: $info;
+    }
+  }
+
+  &-danger {
+    &,
+    > th,
+    > td {
+      background-color: $danger;
+    }
+  }
+
+  &-warning {
+    &,
+    > th,
+    > td {
+      background-color: $warning;
+    }
+  }
+
+  &-dark {
+    &,
+    > th,
+    > td {
+      background-color: $dark;
+    }
+  }
+
+  &-light {
+    &,
+    > th,
+    > td {
+      background-color: $light;
+    }
+
+    &,
+    a:not(.btn),
+    .alert-link {
+      color: $body-color;
+    }
+  }
+}
+
+.badge {
+  &.bg-light {
+    color: $dark;
+  }
+}
+
+.tooltip {
+  @extend .HLC_custom;
+}
+
+// Containers
+
+.modal,
+.toast,
+.offcanvas {
+  .btn-close {
+    background-image: escape-svg(url("data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16' fill='#{--brand-gray-300}'><path d='M.293.293a1 1 0 0 1 1.414 0L8 6.586 14.293.293a1 1 0 1 1 1.414 1.414L9.414 8l6.293 6.293a1 1 0 0 1-1.414 1.414L8 9.414l-6.293 6.293a1 1 0 0 1-1.414-1.414L6.586 8 .293 1.707a1 1 0 0 1 0-1.414z'/></svg>"));
+  }
+}
+
+// Custom Styles
+
+div[data-custom-style="Subtitle"] {
+   color: --brand-gray-700;
+   font-weight: bold;
+ }
+
+ div[data-custom-style="Abstract"] {
+   color: --brand-gray-700;
+//   background-color: $gray-400;
+//   border: 2px solid --brand-darkpink;
+ }
+
+ span[data-custom-style="Judgment"] {
+   color: --brand-darkgreen;
+ }
+
+// div[data-custom-style="Body Text"] {
+//   color: --brand-black;
+// }
+
+//div.sidebar-item-container:has(a:active) {
+//  background-color: --brand-darkpink;
+//  border: 2px solid --brand-darkpink;
+//  color: --brand-white;
+//}
+
+//div.sidebar-item-container:hover {
+  /* Apply your desired styles here */
+//  background-color: --brand-darkgreen;
+//  border: 2px solid --brand-darkpink;
+//  color: --brand-white;
+//}
