@@ -14,3 +14,5 @@
 /_book/
 *.aux
 *.log
+content/index.html
+content/index.typ

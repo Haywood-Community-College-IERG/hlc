@@ -1,0 +1,85 @@
+## https://posit-dev.github.io/brand-yml/
+meta:
+  name: "Transition to HLC"
+  link: 
+    home: https://posit-dev.github.io/brand-yml
+    site-url: https://github.com/Haywood-Community-College-IERG/hlc/index.html
+    repo-url: https://github.com/Haywood-Community-College-IERG/hlc
+    new-issue: https://github.com/Haywood-Community-College-IERG/hlc/issues/new/choose
+
+logo: 
+  images:
+    favicon: 
+      path: images/favicon.png
+      alt: "Transition to HLS favicon"
+    navbar: 
+      path: images/cover.png
+      alt: "Transition to HLS cover image"
+    logo: 
+      path: images/logo.svg
+      alt: "Transition to HLS logo"
+  small: favicon
+  medium: navbar
+  large: logo
+
+color:
+  palette:
+
+    # Basic Shades
+    white:    "#FFFFFF"
+    gray-100: "#F8F9FA"
+    gray-200: "#F8F5F0"
+    gray-300: "#DFD7CA"
+    gray-400: "#CED4DA"
+    gray-500: "#98978B"
+    gray-600: "#8E8C84"
+    gray-700: "#495057"
+    gray-800: "#3E3F3A"
+    gray-900: "#212529"
+    black:    "#000000"
+
+    # Theme Colors
+    blue:    "#325D88"
+    indigo:  "#6610F2"
+    purple:  "#6F42C1"
+    pink:    "#E83E8C"
+    red:     "#D9534F"
+    orange:  "#F47C3C"
+    yellow:  "#FFC107"
+    green:   "#93C54B"
+    teal:    "#20C997"
+    cyan:    "#29ABE0"
+
+    # HCC Colors
+    darkgreen: "#2A5239"
+    lightgreen: "#799B3E"
+    grey: "#63666A"
+    tan: "#D9BD80"
+    darkpink: "#9C006A"
+
+  #foreground: black
+  #background: white
+  primary: blue
+  secondary: gray-600
+  #tertiary: gray-300
+  success: green
+  info: cyan
+  warning: orange
+  danger: red
+  light: gray-200
+  dark: darkgreen
+
+typography:
+  fonts:
+    - family: Abel
+      source: bunny
+    - family: Alegreya Sans
+      source: bunny
+    - family: Fira Code
+      source: bunny
+
+  base: Alegreya Sans
+  headings:
+    family: Abel
+    weight: 400
+  monospace: Fira Code
