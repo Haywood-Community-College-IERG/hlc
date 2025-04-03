@@ -27,6 +27,8 @@ jobs:
         uses: actions/checkout@v4
       - name: Install Quarto
         uses: quarto-dev/quarto-actions/setup@v2
+      - name: Install TeX
+        run: sudo apt-get install -y texlive texlive-latex-extra texlive-xetex
       - name: Setup Pages
         uses: actions/configure-pages@v4
       - name: Render Website
