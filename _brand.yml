@@ -10,13 +10,13 @@ meta:
 logo: 
   images:
     favicon: 
-      path: images/favicon.png
+      path: /images/favicon.png
       alt: "Transition to HLS favicon"
     navbar: 
-      path: images/cover.png
+      path: /images/cover.png
       alt: "Transition to HLS cover image"
     logo: 
-      path: images/logo.svg
+      path: /images/logo.svg
       alt: "Transition to HLS logo"
   small: favicon
   medium: navbar
