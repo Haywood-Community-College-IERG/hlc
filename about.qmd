@@ -1,6 +1,7 @@
 ---
 title: "About the creators"
 about:
+  theme: trestles
   image: accreditation.jpg
 ---
 
