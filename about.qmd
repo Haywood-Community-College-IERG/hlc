@@ -2,7 +2,7 @@
 title: "About the creators"
 image: accreditation.jpg
 about:
-  theme: solana
+    theme: solana
 ---
 
 These pages were created after an over year-long process to understand the Higher Learning Commission criterion and policies by a group of community college leaders in North Carolina. Many thoughts and ideas were shared and debated. The final product is a reflection of the collective wisdom of the group. Some portions were generated via ChatGPT's Deep Research using the 4o model based on the resources generated from this group, resources on the HLC website, and example insitutional reports found via the web.
