@@ -1,6 +1,6 @@
 # Timeline
 
-```mermaid
+```{mermaid}
 %%{init: { 'logLevel': 'debug', 'theme': 'forest' } }%%
 timeline
     title SACSCOC to HLC Transition Timeline
