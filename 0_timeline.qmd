@@ -14,6 +14,7 @@ timeline
 
 ```{mermaid}
 %%{init: { 'logLevel': 'debug', 'theme': 'forest' } }%%
+timeline
     section 2025
         March : RECEIVE USED/FSA Approval
         April : ATTEND HLC Conference
@@ -23,6 +24,7 @@ timeline
 
 ```{mermaid}
 %%{init: { 'logLevel': 'debug', 'theme': 'forest' } }%%
+timeline
     section 2026
         April : ATTEND HLC Conference
         May : SUBMIT Peer Review Document
@@ -33,6 +35,7 @@ timeline
 
 ```{mermaid}
 %%{init: { 'logLevel': 'debug', 'theme': 'forest' } }%%
+timeline
     section 2027
         April : HLC Annual Meeting
         June : SUBMIT Comprehensive Evaluation
@@ -44,6 +47,7 @@ timeline
 
 ```{mermaid}
 %%{init: { 'logLevel': 'debug', 'theme': 'forest' } }%%
+timeline
     section 2028
         March : SACSCOC Compliance Report Due
         May : RECEIVE USED/FSA Approval
