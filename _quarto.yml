@@ -22,6 +22,8 @@ website:
     left:
       - text: "Home"
         href: index.qmd
+      - text: "Timeline"
+        href: 0_timeline.qmd
       - text: "Step 1. BOT Approval"
         href: 1_bot_approval.qmd
       - text: "Step 2. Letter to USED"
