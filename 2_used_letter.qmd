@@ -1,5 +1,7 @@
 # Step 2. Letter to US Department of Education / Federal Student Aid
 
+## Model Letter
+
 **Model Community College**  
 123 College Avenue  
 Anytown, ST 12345  
@@ -43,3 +45,11 @@ President, Model Community College
 - **Board of Trustees Resolution – Change of Accreditor Approval:** Copy of the resolution passed by the Model Community College District Board of Trustees authorizing pursuit of HLC accreditation as the College’s sole accreditor.  
 - **Relevant State Legislation Excerpt:** Copy or summary of the pertinent state statute/policy that prompts or requires the institution to seek a new accrediting agency (illustrating the external mandate influencing this request).
 - **All SACSCOC communications since last reaffirmation:** Include all the relevant official communications between SACSCOC and Model Community College since the last reaffirmation.
+
+## Actual Sample Letters
+
+### Haywood Community College
+
+- [2024-09-30 Initial Letter](documents/2024-09-30 HCC - Haywood CC Notification Regarding Accreditation (Final).pdf)
+- [2024-11-26 USED Request for additional information](documents/2024-11-26 USED - Haywood Community College 00808300 - Request for Additional Documentation - A.pdf)
+- [2025-03-20 USED Approval Letter](documents/2025-03-20 USED - Approval for Haywood Community College 00808300.pdf)
