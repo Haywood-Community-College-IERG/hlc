@@ -15,7 +15,8 @@ permissions:
 on:
   push:
     branches: ['main']
-
+  workflow_dispatch:
+              
 jobs:
   quarto:
     runs-on: ubuntu-latest
