@@ -70,13 +70,13 @@ color:
   dark: darkgreen
 
 typography:
-  fonts:
-    - family: Abel
-      source: bunny
-    - family: Alegreya Sans
-      source: bunny
-    - family: Fira Code
-      source: bunny
+  # fonts:
+  #   - family: Abel
+  #     source: bunny
+  #   - family: Alegreya Sans
+  #     source: bunny
+  #   - family: Fira Code
+  #     source: bunny
 
   base: Alegreya Sans
   headings:

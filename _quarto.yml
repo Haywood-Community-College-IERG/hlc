@@ -53,6 +53,8 @@ website:
             href: criteria/criterion4.qmd
           - text: "Assumed Practices"
             href: criteria/assumed_practices.qmd
+      - text: "Resources"
+        href: resources.qmd
       - text: "About"
         href: about.qmd
 

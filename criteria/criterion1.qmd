@@ -151,6 +151,11 @@ This component places a significant emphasis on the institution's crucial role i
 
 Institutions should select evidence and examples most relevant to *their own mission*. The lists are not exhaustive checklists, but starting points for brainstorming how to demonstrate that **Criterion 1: Mission** is met under HLC’s 2025 Criteria. Each institution’s mission is unique, so aligning evidence with that distinct mission will strengthen the accreditation argument.
 
+Other Examples:
+
+- Illinois State University - Sample Accreditation Visit Questions[^1_illinoisstate_visit]
+- Oakland Community College - Criterion Cards[^1_oaklandcc]
+
 
 [^1_providing_evidence]: [Providing Evidence for the Criteria for Accreditation](https://download.hlcommission.org/ProvidingEvidence-2025Criteria_INF.pdf)
 [^1_gtc]: [Gateway Technical College - Criterion 1 Evidence](https://www.gtc.edu/sites/default/files/files/documents/1444662295/criteria_one_evidencev1.pdf)
