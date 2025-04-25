@@ -1,17 +1,20 @@
----
-title: Resources
----
+# Resources {.unnumbered}
 
-# Helpful Resources {.unnumbered}
-
-Below you will find resources that schools undergoing this transition have found helpful.
+Below you will find resources that institutions undergoing this transition have found helpful.
 
 ## Sessions from HLC Annual Meetings
 
-### April 4, 2025 - April 8, 2025
+### April 4, 2025 - April 8, 2025 
+
+::: {.callout-note collapse=true}
+## For NC Working Group institutions
+
+Slides for these are available in MS Teams in the _Resources folder.
+:::
 
 - Seeking Accreditation Workshop (SAT/Pre-Conference Workshop)
 - C-34 - Revised Criteria for Accreditation: Criteria 1 and 2 (SUN/1:30p)
+- C-59 - Revised Criteria 1 & 2: Colleague Conversation (SUN/2:30p)
 - C-77 - Revised Criteria for Accreditation: Criterion 4 (MON/10:30a)
 - C-101 - Revised Criterion 4: Colleague Conversation (MON/11:30a)
 - C-104 - From Compliance to Continuous Improvement: Normalizing the Accreditation Process (MON/11:30a)
@@ -19,12 +22,3 @@ Below you will find resources that schools undergoing this transition have found
 - C-135 - Revised Criterion 3: Colleague Conversation (MON/2:30p)
 - C-156 - Harnessing the Power of AI to Improve Assessment (TUE/9:00a)
 - C-169 - Using Evidence Effectively: A ‘How To’ from Evaluation to Citation (TUE/10:00a)
-
-## HLC Resources
-
-### Videos
-
-### Policies 
-
-### Documents 
-

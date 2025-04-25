@@ -23,23 +23,26 @@ website:
       - text: "Home"
         href: index.qmd
       - text: "Timeline"
-        href: 0_timeline.qmd
-      - text: "Step 1. BOT Approval"
-        href: 1_bot_approval.qmd
-      - text: "Step 2. Letter to USED"
-        href: 2_used_letter.qmd
-      # - text: "Step 3. HLC Application"
-      #   href: 3_hlc_application.qmd
-      # - text: "Step 4. HLC Preliminary Peer Review"
-      #   href: 4_hlc_preliminary_peer_review.qmd
-      # - text: "Step 5. HLC Comprehensive Evaluation"
-      #   href: 5_hlc_comprehensive_evaluation.qmd
-      # - text: "Step 6. HLC Onsite Visit"
-      #   href: 6_hlc_onsite_visit.qmd
-      # - text: "Step 7. HLC Institutional Actions Council"
-      #   href: 7_hlc_institutional_actions_council.qmd
-      # - text: "Step 8. Letter to USED"
-      #   href: 8_used_letter.qmd
+        href: timeline.qmd
+
+      - text: "HLC Process Steps"
+        menu:
+        - text: "Step 0. BOT Approval"
+          href: steps/0_bot_approval.qmd
+        - text: "Step 1. Letter to USED"
+          href: steps/1_used_letter.qmd
+        - text: "Step 2. HLC Application"
+          href: steps/2_hlc_application.qmd
+      # - text: "Step 3. HLC Preliminary Peer Review"
+      #   href: 3_hlc_preliminary_peer_review.qmd
+      # - text: "Step 4. HLC Comprehensive Evaluation"
+      #   href: 4_hlc_comprehensive_evaluation.qmd
+      # - text: "Step 5. HLC Onsite Visit"
+      #   href: 5_hlc_onsite_visit.qmd
+      # - text: "Step 6. HLC Institutional Actions Council"
+      #   href: 6_hlc_institutional_actions_council.qmd
+      # - text: "Step 7. Letter to USED"
+      #   href: 7_used_letter.qmd
 
       - text: "Criteria"
         menu:

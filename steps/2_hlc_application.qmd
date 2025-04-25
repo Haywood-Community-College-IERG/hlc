@@ -1,0 +1,135 @@
+---
+format:
+  html:
+    footnotes-hover: true
+    css: /assets/footnotes-style.css 
+---
+
+# Step 2. HLC Application
+
+::: {.callout-important}
+About 30 days prior to submitting the application, the college should notify HLC of its intention to apply.
+This allows HLC time to setup your college in their system prior to the actual application. 
+The college will then be able to transfer the application fee funds[^s2_hlc_dues_and_fees] immediatly following the application.
+
+You can use the [inquiry form](https://www.hlcommission.org/accreditation/begin-your-accreditation-journey/seeking-accreditation-inquiry-form/) {{< fa solid up-right-from-square title="A webpage link icon" >}} to start this conversation or submit a more formal letter of notifiction.
+An example letter is provided below.
+:::
+
+## The Application and Evidence
+
+As part of the accelerated process[^s2_hlc_accelerated_process] application, colleges need to submit 13 pieces of evidence in addition to the brief application[^s2_hlc_application_link]. 
+Here is a summary of those pieces of evidence with some tips for each:
+
+### 1. Official Communications
+
+*All communications between the institution and its current accreditor from the past 12 months.*
+
+There are not tips at this time. Some will be (hopefully) added soon.
+
+### 2. Accreditation Documentation
+
+*Proof of current institutional accreditation by a USDE-recognized accreditor.*
+
+There are not tips at this time. Some will be (hopefully) added soon.
+
+### 3. Reaffirmation of Accreditation
+
+*Evidence of one reaffirmation of accreditation or other indicators of continuity and stability.*
+
+There are not tips at this time. Some will be (hopefully) added soon.
+
+### 4. Sanction Status
+
+*Documentation showing no sanctions or negative actions from the current accreditor for at least five years.*
+
+There are not tips at this time. Some will be (hopefully) added soon.
+
+### 5. USDE Approval
+
+*Approval from the USDE Federal Student Aid office for changing or maintaining multiple accreditations.*
+
+There are not tips at this time. Some will be (hopefully) added soon.
+
+### 6. Voluntary Decision Explanation
+
+*Description of the voluntary decision to seek accreditation with HLC, including rationale and decision-making process.*
+
+There are not tips at this time. Some will be (hopefully) added soon.
+
+### 7. Substantial Presence Worksheet 
+
+*Completed worksheet[^s2_hlc_sub_pres_wksht] demonstrating substantial presence within HLC’s jurisdiction.*
+
+There are not tips at this time. Some will be (hopefully) added soon.
+
+### 8. Incorporation Documentation
+
+*Proof of incorporation or operation under federal authority within HLC’s jurisdiction.*
+
+There are not tips at this time. Some will be (hopefully) added soon.
+
+### 9. Degree Authorization
+
+*Legal authorization to award degrees in at least one state or jurisdiction within HLC’s area.*
+
+There are not tips at this time. Some will be (hopefully) added soon.
+
+### 10. Educational Programs List 
+
+*List of all educational programs offered, including those by distance or correspondence education.*
+
+There are not tips at this time. Some will be (hopefully) added soon.
+
+### 11. Enrollment Information 
+
+*Current enrollments in all educational programs by program, location, and mode of delivery.*
+
+There are not tips at this time. Some will be (hopefully) added soon.
+
+### 12. Accreditor Relationships
+
+*Inventory of relationships with other recognized accreditors, including any sanctions or adverse actions.*
+
+There are not tips at this time. Some will be (hopefully) added soon.
+
+### 13. Governing Board Authorization
+
+*Documentation indicating the governing board’s authorization to seek accreditation with HLC.*
+
+There are not tips at this time. Some will be (hopefully) added soon.
+
+## Other Resources
+
+See [Resources](..\resources.qmd) for more details.
+
+- Seeking Accreditation Workshop handout
+
+## Other topics of interest
+
+- Learn about the responsibilities of the Accreditation Liaison Office[^s2_hlc_alo]
+
+## Resources
+
+- [HLC Application Link](https://www.hlcommission.org/accreditation/begin-your-accreditation-journey/application-for-hlc-membership/) {{< fa solid up-right-from-square title="A webpage link" >}}
+- [HLC Accelerated Process for Initial Accreditation](https://download.hlcommission.org/seeking-accreditation/AcceleratedInitialAccreditation_PRC.pdf) {{< fa solid file-pdf title="A PDF document" >}}
+- [HLC Dues and Fees Schedule](https://www.hlcommission.org/accreditation/dues-and-fees-schedule/) {{< fa solid up-right-from-square title="A webpage link icon" >}}
+- [HLC Accreditation Liaison Office role and responsibility](https://www.hlcommission.org/accreditation/accreditation-roles-on-campus/#alo) {{< fa solid up-right-from-square title="A webpage link icon" >}}
+- [HLC Substantial Presence Worksheet](https://download.hlcommission.org/seeking-accreditation/SubstantialPresence_FRM.docx) {{< fa solid file-word title="A Word document icon" >}}
+
+::: {.callout-note appearance="simple"}
+## Icon Reference
+
+- {{< fa solid file-excel title="An Excel document icon" >}} - Excel document 
+- {{< fa solid up-right-from-square title="A webpage link icon" >}} - Webpage link 
+- {{< fa solid file-pdf title="A PDF document icon" >}} - PDF document 
+- {{< fa solid folder-tree title="A policy link or document icon" >}} - Policy link or document
+- {{< fa solid video title="A video link icon" >}} - Video link
+- {{< fa solid file-word title="A Word document icon" >}} - Word document
+:::
+
+[^s2_hlc_application_link]: [HLC Application Link](https://www.hlcommission.org/accreditation/begin-your-accreditation-journey/application-for-hlc-membership/) {{< fa solid up-right-from-square title="A webpage link" >}}
+[^s2_hlc_accelerated_process]: [HLC Accelerated Process for Initial Accreditation](https://download.hlcommission.org/seeking-accreditation/AcceleratedInitialAccreditation_PRC.pdf) {{< fa solid file-pdf title="A PDF document" >}}
+[^s2_hlc_dues_and_fees]: [HLC Dues and Fees Schedule](https://www.hlcommission.org/accreditation/dues-and-fees-schedule/) {{< fa solid up-right-from-square title="A webpage link icon" >}}
+[^s2_hlc_alo]: [HLC Accreditation Liaison Office role and responsibility](https://www.hlcommission.org/accreditation/accreditation-roles-on-campus/#alo) {{< fa solid up-right-from-square title="A webpage link icon" >}}
+[^s2_hlc_sub_pres_wksht]: [HLC Substantial Presence Worksheet](https://download.hlcommission.org/seeking-accreditation/SubstantialPresence_FRM.docx) {{< fa solid file-word title="A Word document icon" >}}
