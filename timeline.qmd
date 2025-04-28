@@ -53,3 +53,9 @@ timeline
         May : RECEIVE USED/FSA Approval
         June : HLC Accredited
 ```
+
+---
+
+Full timeline examples:
+
+- [2024-07-17 HCC - Project timeline with milestones](documents/2024-07-17 HCC - Project timeline with milestones HLC.pdf)
