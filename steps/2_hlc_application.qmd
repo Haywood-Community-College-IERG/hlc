@@ -25,37 +25,37 @@ Here is a summary of those pieces of evidence with some tips for each:
 
 *All communications between the institution and its current accreditor from the past 12 months.*
 
-There are not tips at this time. Some will be (hopefully) added soon.
+- If the institution has recently completed a Fifth-Year Interim Report, include only the findings letter from SACSCOC when it is received.
 
-### 2. Accreditation Documentation
+### 2. Accreditation Documentation {#sec-accreditation-documentation}
 
-*Proof of current institutional accreditation by a USDE-recognized accreditor.*
+*Proof of current institutional accreditation by a USED-recognized accreditor.*
 
-There are not tips at this time. Some will be (hopefully) added soon.
+- Include a screenshot from the US Department of Education's Database of Accredited Postsecondary Insittutions and Programs [https://ope.ed.gov/dapip/](https://ope.ed.gov/dapip/).
 
 ### 3. Reaffirmation of Accreditation
 
 *Evidence of one reaffirmation of accreditation or other indicators of continuity and stability.*
 
-There are not tips at this time. Some will be (hopefully) added soon.
+- The screenshot from @sec-accreditation-documentation includes the recent history and the date of first accreditation, which satisfies this evidence as well.
 
 ### 4. Sanction Status
 
 *Documentation showing no sanctions or negative actions from the current accreditor for at least five years.*
 
-There are not tips at this time. Some will be (hopefully) added soon.
+- The screenshot from @sec-accreditation-documentation includes the recent history, including any sanctions or negative actions from SACSCOC.
 
-### 5. USDE Approval
+### 5. USED Approval
 
-*Approval from the USDE Federal Student Aid office for changing or maintaining multiple accreditations.*
+*Approval from the USED Federal Student Aid office for changing or maintaining multiple accreditations.*
 
-There are not tips at this time. Some will be (hopefully) added soon.
+- Just include a copy of the letter received from the USED Federal Student Aid office.
 
 ### 6. Voluntary Decision Explanation
 
 *Description of the voluntary decision to seek accreditation with HLC, including rationale and decision-making process.*
 
-There are not tips at this time. Some will be (hopefully) added soon.
+- Can include the argument portion of the letter sent to the USED Federal Student Aid office in support of the institutions transition to HLC.
 
 ### 7. Substantial Presence Worksheet 
 
@@ -75,7 +75,7 @@ There are not tips at this time. Some will be (hopefully) added soon.
 
 There are not tips at this time. Some will be (hopefully) added soon.
 
-### 10. Educational Programs List 
+### 10. Educational Programs List {#sec-educational-pgrograms-list}
 
 *List of all educational programs offered, including those by distance or correspondence education.*
 
@@ -85,7 +85,7 @@ There are not tips at this time. Some will be (hopefully) added soon.
 
 *Current enrollments in all educational programs by program, location, and mode of delivery.*
 
-There are not tips at this time. Some will be (hopefully) added soon.
+- This can be included with the full list of programs under @sec-educational-pgrograms-list.
 
 ### 12. Accreditor Relationships
 
@@ -97,7 +97,16 @@ There are not tips at this time. Some will be (hopefully) added soon.
 
 *Documentation indicating the governing board’s authorization to seek accreditation with HLC.*
 
-There are not tips at this time. Some will be (hopefully) added soon.
+- Here are some sample board presentation outlines:
+    - Haywood Community College
+        - Board was presented their discussion and motion from previous year where the institution decided to submit an application to USED for permission to apply to HLC.
+        - Board was shown letter from USED granting approval to proceed with applying to HLC.
+            - [2025-03-20 USED Approval Letter](documents/2025-03-20 USED - Approval for Haywood Community College 00808300.pdf)
+        - Board made a motion directing the president or her designee to apply for accreditation with HLC.
+        - Board was shown letters to both SACSCOC and NCCCS declaring our intentions for their information.
+            - [2025-05-07 SACSCOC Notification Letter](documents/2025-05-07 HCC - SACSCOC Notification Letter.pdf)
+            - [2025-05-07 NCCCS Notification Letter](documents/2025-05-07 HCC - NCCCS Notification Letter.pdf)
+        - NOTE: Letters were sent the day after the board meeting and HLC was notified of the intent to apply via the [HLC Inquiry Form](https://www.hlcommission.org/accreditation/begin-your-accreditation-journey/seeking-accreditation-inquiry-form/).
 
 ## Other Resources
 
@@ -112,6 +121,7 @@ See [Resources](..\resources.qmd) for more details.
 ## Resources
 
 - [HLC Application Link](https://www.hlcommission.org/accreditation/begin-your-accreditation-journey/application-for-hlc-membership/) {{< fa solid up-right-from-square title="A webpage link" >}}
+- [HLC Inquiry Form](https://www.hlcommission.org/accreditation/begin-your-accreditation-journey/seeking-accreditation-inquiry-form/) {{< fa solid up-right-from-square title="A webpage link" >}}
 - [HLC Accelerated Process for Initial Accreditation](https://download.hlcommission.org/seeking-accreditation/AcceleratedInitialAccreditation_PRC.pdf) {{< fa solid file-pdf title="A PDF document" >}}
 - [HLC Dues and Fees Schedule](https://www.hlcommission.org/accreditation/dues-and-fees-schedule/) {{< fa solid up-right-from-square title="A webpage link icon" >}}
 - [HLC Accreditation Liaison Office role and responsibility](https://www.hlcommission.org/accreditation/accreditation-roles-on-campus/#alo) {{< fa solid up-right-from-square title="A webpage link icon" >}}
