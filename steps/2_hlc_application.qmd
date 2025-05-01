@@ -1,10 +1,3 @@
----
-format:
-  html:
-    footnotes-hover: true
-    css: /assets/footnotes-style.css 
----
-
 # Step 2. HLC Application
 
 ::: {.callout-important}
