@@ -16,7 +16,7 @@ You can use the [inquiry form](https://www.hlcommission.org/accreditation/begin-
 An example letter is provided below.
 :::
 
-## The Application and Evidence
+## The Application and Evidence {#sec-the-application-and-evidence}
 
 As part of the accelerated process[^s2_hlc_accelerated_process] application, colleges need to submit 13 pieces of evidence in addition to the brief application[^s2_hlc_application_link]. 
 Here is a summary of those pieces of evidence with some tips for each:
@@ -37,13 +37,13 @@ Here is a summary of those pieces of evidence with some tips for each:
 
 *Evidence of one reaffirmation of accreditation or other indicators of continuity and stability.*
 
-- The screenshot from @sec-accreditation-documentation includes the recent history and the date of first accreditation, which satisfies this evidence as well.
+- The screenshot from \nameref{sec-accreditation-documentation} includes the recent history and the date of first accreditation, which satisfies this evidence as well.
 
 ### 4. Sanction Status
 
 *Documentation showing no sanctions or negative actions from the current accreditor for at least five years.*
 
-- The screenshot from @sec-accreditation-documentation includes the recent history, including any sanctions or negative actions from SACSCOC.
+- The screenshot from \nameref{sec-accreditation-documentation} includes the recent history, including any sanctions or negative actions from SACSCOC.
 
 ### 5. USED Approval
 
@@ -75,7 +75,7 @@ There are not tips at this time. Some will be (hopefully) added soon.
 
 There are not tips at this time. Some will be (hopefully) added soon.
 
-### 10. Educational Programs List {#sec-educational-pgrograms-list}
+### 10. Educational Programs List {#sec-educational-programs-list}
 
 *List of all educational programs offered, including those by distance or correspondence education.*
 
@@ -85,7 +85,7 @@ There are not tips at this time. Some will be (hopefully) added soon.
 
 *Current enrollments in all educational programs by program, location, and mode of delivery.*
 
-- This can be included with the full list of programs under @sec-educational-pgrograms-list.
+- This can be included with the full list of programs under \nameref{sec-educational-programs-list}.
 
 ### 12. Accreditor Relationships
 
