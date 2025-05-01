@@ -55,7 +55,7 @@ Here is a summary of those pieces of evidence with some tips for each:
 
 *Description of the voluntary decision to seek accreditation with HLC, including rationale and decision-making process.*
 
-- Can include the argument portion of the letter sent to the USED Federal Student Aid office in support of the institutions transition to HLC.
+- Can include the argument portion of the letter sent to the USED Federal Student Aid office in support of the institution's transition to HLC.
 
 ### 7. Substantial Presence Worksheet 
 
@@ -98,7 +98,7 @@ There are not tips at this time. Some will be (hopefully) added soon.
 *Documentation indicating the governing board’s authorization to seek accreditation with HLC.*
 
 - Here are some sample board presentation outlines:
-    - Haywood Community College
+    - **Haywood Community College**
         - Board was presented their discussion and motion from previous year where the institution decided to submit an application to USED for permission to apply to HLC.
         - Board was shown letter from USED granting approval to proceed with applying to HLC.
             - [2025-03-20 USED Approval Letter](documents/2025-03-20 USED - Approval for Haywood Community College 00808300.pdf)

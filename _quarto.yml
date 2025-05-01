@@ -88,6 +88,8 @@ format:
     smooth-scroll: true
     highlight: arrow
     page-layout: full
+    footnotes-hover: true
+    css: assets/footnotes-style.css   
   # pdf:
   #   documentclass: scrreprt
   #   toc: true

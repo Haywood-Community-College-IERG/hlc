@@ -16,3 +16,5 @@
 *.log
 content/index.html
 content/index.typ
+
+/.luarc.json

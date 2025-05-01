@@ -4,8 +4,9 @@ function get_header_data(data)
   local get_headers = {
       Header = function(el)
         local id = el.identifier
-        local text = str(el.content):gsub("^[%d.]+ ", "")
-        quarto.log.debug("nameref: insert header [" .. id .. "]")
+        local text = str(el.content) -- str(el.content):gsub("^[%d.]+ ", "")  -- This code removes the numbering from the header text
+        quarto.log.debug("nameref: insert header id [" .. id .. "]")
+        quarto.log.debug("nameref: insert header text [" .. text .. "]")
         table.insert(data, {id = id, text = text})
       end,
       
