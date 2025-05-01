@@ -1,7 +1,3 @@
----
-title: Transition to HLC
----
+# Transitioning your institutional accreditor from SACSCOC to HLC {.unnumbered}
 
-# Transitioning from SACSCOC to HLC {.unnumbered}
-
-This is a for institutions that are transitioning from SACSCOC Standards to HLC Criterion. Choose the relevant section from the menu above to see details regarding each portion of the accredition requirements for HLC.
+Transitioning from SACSCOC to HLC accreditation involves understanding and aligning with the distinct requirements and expectations of the Higher Learning Commission (HLC). This guide is designed to assist institutions in navigating this process by providing detailed information on each section of the HLC accreditation criteria and process. Use the menu above to explore specific requirements and resources to support your institution's successful transition.
