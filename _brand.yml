@@ -11,13 +11,13 @@ logo:
   images:
     favicon: 
       path: /images/favicon.png
-      alt: "Transition to HLS favicon"
+      alt: "Transition to HLC favicon"
     navbar: 
       path: /images/cover.png
-      alt: "Transition to HLS cover image"
+      alt: "Transition to HLC cover image"
     logo: 
       path: /images/logo.svg
-      alt: "Transition to HLS logo"
+      alt: "Transition to HLC logo"
   small: favicon
   medium: navbar
   large: logo
@@ -70,16 +70,17 @@ color:
   dark: darkgreen
 
 typography:
-  # fonts:
-  #   - family: Abel
-  #     source: bunny
-  #   - family: Alegreya Sans
-  #     source: bunny
-  #   - family: Fira Code
-  #     source: bunny
+  fonts:
+    - family: Open Sans
+      source: google
+    - family: Roboto Slab
+      source: google
+    - family: Fira Code
+      source: google
 
-  base: Alegreya Sans
+  base: Open Sans
   headings:
-    family: Abel
+    family: Roboto Slab
+    color: primary
     weight: 400
   monospace: Fira Code

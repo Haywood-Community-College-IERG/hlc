@@ -1,0 +1,11 @@
+# Suggesting Changes
+
+You can suggest changes to this document by clicking the "Suggest a Change" button in the top right corner of the page. This will take you to GitHub, a source control system where the website files live. 
+
+![](images/report-an-issue.png){fig-alt="Suggest a Change"}
+
+NOTE: You may need to create a GitHub account if you don't have one already. 
+
+Once you are in the GitHub interface, you can make your suggestions in the text editor.
+
+![](images/create-an-issue.png){fig-alt="Create an Issue"}

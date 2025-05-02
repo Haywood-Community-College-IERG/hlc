@@ -12,15 +12,16 @@ website:
 
   open-graph: true
 
-  site-url: https://github.com/Haywood-Community-College-IERG/hlc/index.html
-  repo-url: https://github.com/Haywood-Community-College-IERG/hlc
-  repo-actions: [edit, source, issue]
+  #site-url: https://github.com/Haywood-Community-College-IERG/hlc/index.html
+  #repo-url: https://github.com/Haywood-Community-College-IERG/hlc
+  #repo-actions: [edit, source, issue]
   #issue-url: https://github.com/Haywood-Community-College-IERG/hlc/issues/new/choose
 
   favicon: /images/favicon.png
   #image: /images/Clyde.png
 
   back-to-top-navigation: true
+  reader-mode: true
 
   navbar:
     search: true
@@ -65,14 +66,25 @@ website:
         href: resources.qmd
       - text: "About"
         href: about.qmd
+      - text: "Suggesting Changes"
+        href: suggesting-changes.qmd
 
     right:
       - icon: github
         menu:
-          - text: "Source Code"
+          - text: "View the Source"
             href: https://github.com/Haywood-Community-College-IERG/hlc
-          - text: "Report a Bug/Suggest a Change"
+          - text: "Suggest a Change"
             href: https://github.com/Haywood-Community-College-IERG/hlc/issues/new/choose
+
+  # sidebar:
+  #   tools:
+  #     - icon: github
+  #       menu:
+  #         - text: "View the Source"
+  #           href: https://github.com/Haywood-Community-College-IERG/hlc
+  #         - text: "Suggest a Change"
+  #           href: https://github.com/Haywood-Community-College-IERG/hlc/issues/new/choose
 
 typst:
   title: "Transition to HLC"
@@ -90,6 +102,9 @@ format:
     page-layout: full
     footnotes-hover: true
     css: assets/footnotes-style.css   
+    # header-includes: |
+    #   <link rel="stylesheet" media="screen" href="https://fontlibrary.org/face/tex-gyre-adventor" type="text/css"/>
+    # mainfont: TexGyreAdventor
   # pdf:
   #   documentclass: scrreprt
   #   toc: true
