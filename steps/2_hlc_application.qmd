@@ -60,104 +60,105 @@ The Substantial Presence Worksheet is a document that HLC uses to determine if a
 This is relatively straightforward as the institution is located in NC and serves students in NC. See below for details on each portion.
 :::
 
+
 ::: {.callout-note collapse=true}
 #### Substantial Presence Worksheet
 
 1. Where is the institution incorporated?
 
-    For state institutions, this is likely answered by referring to state law.
+   For state institutions, this is likely answered by referring to state law.
 
-    ::: {.callout-note collapse=true}
-    #### For NC Working Group institutions
+   ::: {.callout-note collapse=true}
+   #### For NC Working Group institutions
 
-    An acceptable answer would be: "The institution is authorized by law to operate in <countyname> County in the state of North Carolina.
-    :::
+   An acceptable answer would be: "The institution is authorized by law to operate in <countyname> County in the state of North Carolina.
+   :::
 
 2. In which states, sovereign nations, or other jurisdictions is the institution authorized to offer educational programs?
 
-    List all the locations where the institution is authorized to offer educational programs.
+   List all the locations where the institution is authorized to offer educational programs.
 
-    ::: {.callout-note collapse=true}
-    #### For NC Working Group institutions
+   ::: {.callout-note collapse=true}
+   #### For NC Working Group institutions
 
-    An acceptable answer would be: "North Carolina"
-    :::
+   An acceptable answer would be: "North Carolina"
+   :::
 
 3. Where is the work of the chief executive officer (CEO) conducted?
 
-    The CEO is the president of the institution. This is typically where the president's office is located.
+   The CEO is the president of the institution. This is typically where the president's office is located.
 
-    ::: {.callout-note collapse=true}
-    #### For NC Working Group institutions
+   ::: {.callout-note collapse=true}
+   #### For NC Working Group institutions
 
-    An acceptable answer would be: "The work of the CEO is typically conducted in person on campus at <collegename> Community College in <collegecity>, NC."
-    :::
+   An acceptable answer would be: "The work of the CEO is typically conducted in person on campus at <collegename> Community College in <collegecity>, NC."
+   :::
  
 4. Where and through what mechanisms (in-person, virtual meetings, etc.) do the CEO, senior administrators, cabinet, and other administrators conduct their work together, and what is the frequency of these meetings?
 
-    The senior administrators are the vice presidents and other senior leaders of the institution. The cabinet is typically the executive team of the institution. 
+   The senior administrators are the vice presidents and other senior leaders of the institution. The cabinet is typically the executive team of the institution. 
 
-     ::: {.callout-note collapse=true}
-    #### For NC Working Group institutions
+   ::: {.callout-note collapse=true}
+   #### For NC Working Group institutions
 
-    An acceptable answer would be: "The senior administrators and cabinet typically meet in person on campus at <collegename> Community College in <collegecity>, NC. The executive team typically meets <frequency> and includes the <executiveteam>. The <leadershipteamname> meets every <frequency> and includes <leadershipteam>."
+   An acceptable answer would be: "The senior administrators and cabinet typically meet in person on campus at <collegename> Community College in <collegecity>, NC. The executive team typically meets <frequency> and includes the <executiveteam>. The <leadershipteamname> meets every <frequency> and includes <leadershipteam>."
+   :::
 
 5. Where and through what mechanisms (in-person, virtual meetings, etc.) does the governing board conduct its meetings, and what is the frequency of these meetings?
 
-    The governing board is the board of trustees or other governing body of the institution. 
+   The governing board is the board of trustees or other governing body of the institution. 
 
-    ::: {.callout-note collapse=true}
-    #### For NC Working Group institutions
+   ::: {.callout-note collapse=true}
+   #### For NC Working Group institutions
 
-    An acceptable answer would be: "The governing board typically meets in person on campus at <collegename> Community College in <collegecity>, NC. The board meets every <frequency>."
+   An acceptable answer would be: "The governing board typically meets in person on campus at <collegename> Community College in <collegecity>, NC. The board meets every <frequency>."
 
-    Also include if the meetings are broadcast online or if the board members are able to join the meeting online.
-    :::
+   Also include if the meetings are broadcast online or if the board members are able to join the meeting online.
+   :::
 
 6. Describe the institution’s general level of workplace centralization, including components of the institution in which faculty, staff and administration work virtually/remotely.  
 
-    This is typically where the institution's faculty, staff, and administration work. 
+   This is typically where the institution's faculty, staff, and administration work. 
 
-    ::: {.callout-note collapse=true}
-    #### For NC Working Group institutions
+   ::: {.callout-note collapse=true}
+   #### For NC Working Group institutions
 
-    An acceptable answer would be: "The institution's faculty, staff, and administration work primarily in person on campus at <collegename> Community College in <collegecity>, NC. The institution has a small number of employees who work remotely or virtually. The students commute to campus for classes and services or are enrolled in online programs. <collegename> Community College is not authorized to offer online courses to students outside of North Carolina."
-    :::
+   An acceptable answer would be: "The institution's faculty, staff, and administration work primarily in person on campus at <collegename> Community College in <collegecity>, NC. The institution has a small number of employees who work remotely or virtually. The students commute to campus for classes and services or are enrolled in online programs. <collegename> Community College is not authorized to offer online courses to students outside of North Carolina."
+   :::
 
-7.	From what locations and through what mechanisms (in-person, online, vendor-provided services, etc.) does the institution receive and process tuition and fee payments?
+7. From what locations and through what mechanisms (in-person, online, vendor-provided services, etc.) does the institution receive and process tuition and fee payments?
  
-    This is typically where the institution's tuition and fee payments are processed. 
+   This is typically where the institution's tuition and fee payments are processed. 
 
-    ::: {.callout-note collapse=true}
-    #### For NC Working Group institutions
+   ::: {.callout-note collapse=true}
+   #### For NC Working Group institutions
 
-    An acceptable answer would be: "The institution receives and processes tuition and fee payments in person on campus at <collegename> Community College in <collegecity>, NC. The institution also accepts online payments through the college's website."
+   An acceptable answer would be: "The institution receives and processes tuition and fee payments in person on campus at <collegename> Community College in <collegecity>, NC. The institution also accepts online payments through the college's website."
 
-    The response may also include information about third-party payment plans or sponsorship payments.
-    :::
+   The response may also include information about third-party payment plans or sponsorship payments.
+   :::
 
-8.	Where does the institution maintain bank accounts?
+8. Where does the institution maintain bank accounts?
 
-    This is typically where the institution's bank accounts are maintained. Be sure to identify all the banks that the institution uses for its accounts.
+   This is typically where the institution's bank accounts are maintained. Be sure to identify all the banks that the institution uses for its accounts.
 
+   ::: {.callout-note collapse=true}
+   #### For NC Working Group institutions
 
-    ::: {.callout-note collapse=true}
-    #### For NC Working Group institutions
+   An acceptable answer would be: "The institution maintains its bank accounts with <bankname> in <bankcity>, NC.""
+   :::
 
-    An acceptable answer would be: "The institution maintains its bank accounts with <bankname> in <bankcity>, NC.""
-    :::
+9. Where is the work of the chief financial officer (CFO) conducted?
 
-9.	Where is the work of the chief financial officer (CFO) conducted?
+   This is typically where the institution's CFO works. The CFO is typically the vice president of finance or business affairs.
 
-    This is typically where the institution's CFO works. The CFO is typically the vice president of finance or business affairs.
+   ::: {.callout-note collapse=true}
+   #### For NC Working Group institutions
 
-    ::: {.callout-note collapse=true}
-    #### For NC Working Group institutions
-
-    An acceptable answer would be: "The work of the CFO is typically conducted in person on campus at <collegename> Community College in <collegecity>, NC."
-    :::
+   An acceptable answer would be: "The work of the CFO is typically conducted in person on campus at <collegename> Community College in <collegecity>, NC."
+   :::
  
-10.	Where are customer service representatives and enrollment management personnel located when responding to inquiries from students or the public?
+10. Where are customer service representatives and enrollment management personnel located when responding to inquiries from students or the public?
     
     This is typically where the institution's customer service representatives and enrollment management personnel work. 
 
@@ -167,11 +168,11 @@ This is relatively straightforward as the institution is located in NC and serve
     An acceptable answer would be: "The institution's customer service representatives and enrollment management personnel are typically located in person on campus at <collegename> Community College in <collegecity>, NC. The institution also has a small number of employees who work remotely or virtually as needed or on occasion."
     :::
  
-11.	What is the address of record for IRS filings (e.g., tax statements, 990s, etc.)?
+11. What is the address of record for IRS filings (e.g., tax statements, 990s, etc.)?
 
     This is main address of the institution used on IRS filings. 
 
-12.	In what state(s) or countries does the institution file tax-related documents? 
+12. In what state(s) or countries does the institution file tax-related documents? 
 
     This is typically where the institution files its tax-related documents. 
 
@@ -248,7 +249,7 @@ This is relatively straightforward as the institution is located in NC and serve
     ::: {.callout-note collapse=true}
     #### For NC Working Group institutions
 
-    An acceptable answer would be: "The institution's main campus is located at <address> in <city>, NC. The institution has no additional locations."
+    An acceptable answer would be: "The institution's main campus is located at <collegeaddress> in <collegecity>, NC. The institution has no additional locations."
     :::
  
 20. Describe the geographic location(s) in which the institution markets its programs and from where it derives its aggregate enrollments, including both on-ground and on-line instructional modalities.  Include data that differentiates between what occurs within HLC’s jurisdiction and what occurs outside of HLC’s jurisdiction.
