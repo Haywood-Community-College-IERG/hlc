@@ -11,7 +11,8 @@ An example letter is provided below.
 
 ## The Application and Evidence {#sec-the-application-and-evidence}
 
-As part of the accelerated process[^s2_hlc_accelerated_process] application, colleges need to submit 13 pieces of evidence in addition to the brief application[^s2_hlc_application_link]. 
+As part of the accelerated process[^s2_hlc_accelerated_process] application, colleges need to submit 13 pieces of evidence in addition to the brief application[^s2_hlc_application_link]. You should use the Microsoft Word template provided by HLC to complete the evidence portion of the application. This should be converted to a PDF and submitted with the application. Be sure to include links from an index page to each piece of evidence in the PDF as well as links back to the index page.
+
 Here is a summary of those pieces of evidence with some tips for each:
 
 ### 1. Official Communications
@@ -19,6 +20,8 @@ Here is a summary of those pieces of evidence with some tips for each:
 *All communications between the institution and its current accreditor from the past 12 months.*
 
 - If the institution has recently completed a Fifth-Year Interim Report, include only the findings letter from SACSCOC when it is received.
+- In general, do not include any of hte submission materials (Fifth-Year Interim Report, New Program Prospectus, etc.) unless specifically requested. You can include the cover letter included with the submission materials or even the confirmation email from the upload. 
+- If no response has been received for one of the institution's submissions prior to submission of the application, include the a note indicating a response is pending.
 
 ### 2. Accreditation Documentation {#sec-accreditation-documentation}
 
@@ -44,49 +47,46 @@ Here is a summary of those pieces of evidence with some tips for each:
 
 - Just include a copy of the letter received from the USED Federal Student Aid office.
 
-### 6. Voluntary Decision Explanation
-
-*Description of the voluntary decision to seek accreditation with HLC, including rationale and decision-making process.*
-
-- Can include the argument portion of the letter sent to the USED Federal Student Aid office in support of the institution's transition to HLC.
-
-### 7. Substantial Presence Worksheet 
+### 6. Substantial Presence Worksheet 
 
 *Completed worksheet[^s2_hlc_sub_pres_wksht] demonstrating substantial presence within HLC’s jurisdiction.*
 
 There are not tips at this time. Some will be (hopefully) added soon.
 
-### 8. Incorporation Documentation
+### 7. Incorporation Documentation
 
 *Proof of incorporation or operation under federal authority within HLC’s jurisdiction.*
 
 There are not tips at this time. Some will be (hopefully) added soon.
 
-### 9. Degree Authorization
+### 8. Degree Authorization
 
 *Legal authorization to award degrees in at least one state or jurisdiction within HLC’s area.*
 
 There are not tips at this time. Some will be (hopefully) added soon.
 
-### 10. Educational Programs List {#sec-educational-programs-list}
+### 9. Educational Programs List {#sec-educational-programs-list}
 
 *List of all educational programs offered, including those by distance or correspondence education.*
 
 There are not tips at this time. Some will be (hopefully) added soon.
 
-### 11. Enrollment Information 
+### 10. Enrollment Information 
 
 *Current enrollments in all educational programs by program, location, and mode of delivery.*
 
 - This can be included with the full list of programs under \nameref{sec-educational-programs-list}.
 
-### 12. Accreditor Relationships
+### 11. Accreditor Relationships
 
 *Inventory of relationships with other recognized accreditors, including any sanctions or adverse actions.*
 
-There are not tips at this time. Some will be (hopefully) added soon.
+- These should be reflective of accreditors and state authorizing agencies that have accredited or approved the institution's programs.
+- For NC community colleges, this includes the NC Board of Nursing. It does not include BLET or EMS programs if they are housed within continuing education.
+- This is just a list of these relationships and does not include any documentation. It should include the name of the program, the accreditor, and the date of the last review or action, and the current standing.
+- You may consider including documentation for any adverse actions or sanctions.
 
-### 13. Governing Board Authorization
+### 12. Governing Board Authorization
 
 *Documentation indicating the governing board’s authorization to seek accreditation with HLC.*
 
@@ -136,3 +136,9 @@ See [Resources](..\resources.qmd) for more details.
 [^s2_hlc_dues_and_fees]: [HLC Dues and Fees Schedule](https://www.hlcommission.org/accreditation/dues-and-fees-schedule/) {{< fa solid up-right-from-square title="A webpage link icon" >}}
 [^s2_hlc_alo]: [HLC Accreditation Liaison Office role and responsibility](https://www.hlcommission.org/accreditation/accreditation-roles-on-campus/#alo) {{< fa solid up-right-from-square title="A webpage link icon" >}}
 [^s2_hlc_sub_pres_wksht]: [HLC Substantial Presence Worksheet](https://download.hlcommission.org/seeking-accreditation/SubstantialPresence_FRM.docx) {{< fa solid file-word title="A Word document icon" >}}
+
+## Updates:
+
+### 2025-05-13
+
+- Revised the list of evidence to remove the "Voluntary Decision Explanation" (formerly Evidence 6) as it is no longer needed.
