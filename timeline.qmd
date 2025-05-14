@@ -3,7 +3,7 @@
 ## SACSCOC to HLC Transition Timeline
 
 ```{mermaid}
-%%{init: { 'logLevel': 'debug', 'theme': 'forest' } }%%
+%%{init: { 'theme': 'forest' } }%%
 timeline
     section 2024
         April/May : Present timeline to Executive Team and BOT
@@ -13,7 +13,7 @@ timeline
 ```
 
 ```{mermaid}
-%%{init: { 'logLevel': 'debug', 'theme': 'forest' } }%%
+%%{init: { 'theme': 'forest' } }%%
 timeline
     section 2025
         March : RECEIVE USED/FSA Approval
@@ -23,7 +23,7 @@ timeline
 ```
 
 ```{mermaid}
-%%{init: { 'logLevel': 'debug', 'theme': 'forest' } }%%
+%%{init: { 'theme': 'forest' } }%%
 timeline
     section 2026
         April : ATTEND HLC Conference
@@ -34,7 +34,7 @@ timeline
 ```
 
 ```{mermaid}
-%%{init: { 'logLevel': 'debug', 'theme': 'forest' } }%%
+%%{init: { 'theme': 'forest' } }%%
 timeline
     section 2027
         April : HLC Annual Meeting
@@ -46,7 +46,7 @@ timeline
 ```
 
 ```{mermaid}
-%%{init: { 'logLevel': 'debug', 'theme': 'forest' } }%%
+%%{init: { 'theme': 'forest' } }%%
 timeline
     section 2028
         March : SACSCOC Compliance Report Due
