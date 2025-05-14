@@ -14,7 +14,7 @@ permissions:
 
 env:
   ACTIONS_STEP_DEBUG: true
-  
+
 on:
   push:
     branches: ['main']
@@ -28,8 +28,12 @@ jobs:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
     steps:
+      - name: Clean workspace
+        run: git clean -fdx
       - name: Checkout repository
         uses: actions/checkout@v4
+      - name: Enable Step Debug Logging
+        run: echo "ACTIONS_STEP_DEBUG=true" >> $GITHUB_ENV
       - name: Install Quarto
         uses: quarto-dev/quarto-actions/setup@v2
         #with:
