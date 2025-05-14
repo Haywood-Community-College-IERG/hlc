@@ -28,10 +28,10 @@ jobs:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
     steps:
-      - name: Clean workspace
-        run: git clean -fdx
       - name: Checkout repository
         uses: actions/checkout@v4
+      - name: Clean workspace
+        run: git clean -fdx
       - name: Enable Step Debug Logging
         run: echo "ACTIONS_STEP_DEBUG=true" >> $GITHUB_ENV
       - name: Install Quarto
