@@ -12,6 +12,9 @@ permissions:
   pages: write
   id-token: write
 
+env:
+  ACTIONS_STEP_DEBUG: true
+  
 on:
   push:
     branches: ['main']
