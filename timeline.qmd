@@ -5,36 +5,9 @@ mermaid_theme1: "%%{init: { 'theme': 'forest' } }%%"
 
 ## SACSCOC to HLC Transition Timeline
 
-```{mermaid}
-timeline
-    section 2024
-        April/May : Present timeline to Executive Team and BOT
-        June : BOT Approve timeline : APPLY to USED/FSA
-        September : SUBMIT SACSCOC 5th-Year
-        December : RECEIVE SACSCOC Approval
-    section 2025
-        March : RECEIVE USED/FSA Approval
-        April : ATTEND HLC Conference
-        June : APPLY to HLC ($5,000)
-        July : BEGIN Peer Review ($10,000)
-    section 2026
-        April : ATTEND HLC Conference
-        May : SUBMIT Peer Review Document
-        June : RECEIVE HLC Approval : HLC Assigns Liaison
-        July : BEGIN Comprehensive Evaluation ($2,650)
-        December : SACSCOC Orientation
-    section 2027
-        April : HLC Annual Meeting
-        June : SUBMIT Comprehensive Evaluation
-        August : Host Onsite Visit
-        September : HLC IAC Hearing ($6,000)
-        October : RECEIVE HLC Accreditation
-        November : SUBMIT USED/FSA Request to Switch
-    section 2028
-        March : SACSCOC Compliance Report Due
-        May : RECEIVE USED/FSA Approval
-        June : HLC Accredited
-```
+![](images/generic-cc-project-timeline.png)
+
+![](images/generic-cc-project-milestones.png)
 
 ---
 
