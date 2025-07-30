@@ -332,12 +332,6 @@ See [Resources](..\resources.qmd) for more details.
 
 - Learn about the responsibilities of the Accreditation Liaison Office[^s2_hlc_alo]
 
-## Actual Sample Applications
-
-### Haywood Community College
-
-- [2025-05-30 Application with Evidence](documents/2025-05-30 HCC - Haywood CC Application with Evidence.pdf)
-
 ## Resources
 
 - [HLC Application Link](https://www.hlcommission.org/accreditation/begin-your-accreditation-journey/application-for-hlc-membership/) {{< fa solid up-right-from-square title="A webpage link" >}}
