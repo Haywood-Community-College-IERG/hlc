@@ -62,6 +62,6 @@ President, Model Community College
 
 ### Haywood Community College
 
-- [2024-09-30 Initial Letter](documents/2024-09-30 HCC - Haywood CC Notification Regarding Accreditation (Final).pdf)
-- [2024-11-26 USED Request for additional information](documents/2024-11-26 USED - Haywood Community College 00808300 - Request for Additional Documentation - A.pdf)
-- [2025-03-20 USED Approval Letter](documents/2025-03-20 USED - Approval for Haywood Community College 00808300.pdf)
+- [2024-09-30 Initial Letter](../documents/2024-09-30 HCC - Haywood CC Notification Regarding Accreditation (Final).pdf)
+- [2024-11-26 USED Request for additional information](../documents/2024-11-26 USED - Haywood Community College 00808300 - Request for Additional Documentation - A.pdf)
+- [2025-03-20 USED Approval Letter](../documents/2025-03-20 USED - Approval for Haywood Community College 00808300.pdf)
