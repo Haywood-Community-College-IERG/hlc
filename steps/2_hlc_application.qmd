@@ -20,7 +20,7 @@ Here is a summary of those pieces of evidence with some tips for each:
 *All communications between the institution and its current accreditor from the past 12 months.*
 
 - If the institution has recently completed a Fifth-Year Interim Report, include only the findings letter from SACSCOC when it is received.
-- In general, do not include any of hte submission materials (Fifth-Year Interim Report, New Program Prospectus, etc.) unless specifically requested. You can include the cover letter included with the submission materials or even the confirmation email from the upload. 
+- In general, do not include any of the submission materials (Fifth-Year Interim Report, New Program Prospectus, etc.) unless specifically requested. You can include the cover letter included with the submission materials or even the confirmation email from the upload. 
 - If no response has been received for one of the institution's submissions prior to submission of the application, include the a note indicating a response is pending.
 
 ### 2. Accreditation Documentation {#sec-accreditation-documentation}
@@ -278,19 +278,38 @@ This is relatively straightforward as the institution is located in NC and serve
 
 *Proof of incorporation or operation under federal authority within HLC’s jurisdiction.*
 
-There are not tips at this time. Some will be (hopefully) added soon.
+This will depend on how the institution is organized and operates. State institutions are likely governed by state law and may not have a formal incorporation document. Refer to the statutes to establish the legal foundation of the institution.
+
+::: {.callout-note collapse=true}
+#### For NC Working Group institutions
+
+Make reference to NC General Statutes 115D-5 which authorizes the State Board to regulate all aspects of community college operations, including the approval of curricula and the awarding of degrees, diplomas, and certificates.
+
+Then reference NCCCS State Board Code Section 1A SBCCC 300.1 which provides definitions that establish the framework for community college governance, including the definition of “service area”.
+
+Finally, reference NCCCS State Board Code Section 1A SBCCC 300.3 which defines the specific service areas for each community college in North Carolina.
+:::
 
 ### 8. Degree Authorization
 
 *Legal authorization to award degrees in at least one state or jurisdiction within HLC’s area.*
 
-There are not tips at this time. Some will be (hopefully) added soon.
+Similarly to \nameref{sec-incorporation-documentation} above, public institutions are likely governed by state law and may not have a formal incorporation document. Refer to the statutes to establish the authorization to award degrees.
+
+::: {.callout-note collapse=true}
+#### For NC Working Group institutions
+
+Make reference to NCCCS State Board Code Section 1D SBCCC 400.6 which outlines the process by which the State Board approves degree, diploma, and certificate programs.
+:::
 
 ### 9. Educational Programs List {#sec-educational-programs-list}
 
 *List of all educational programs offered, including those by distance or correspondence education.*
 
-There are not tips at this time. Some will be (hopefully) added soon.
+- Should include all programs offered by the institution at a particular point in time. 
+- Include the time frame for the list, such as "All active programs for AY 2024-2025".
+- Can combine with \nameref{sec-enrollment-information} to provide a comprehensive view of the institution's educational offerings.
+- Also include the mode of delivery (e.g., in-person, online, correspondence) and the location (campus) of each program.
 
 ### 10. Enrollment Information 
 
