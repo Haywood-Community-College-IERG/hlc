@@ -384,7 +384,14 @@ See [Resources](..\resources.qmd) for more details.
 [^s2_hlc_alo]: [HLC Accreditation Liaison Office role and responsibility](https://www.hlcommission.org/accreditation/accreditation-roles-on-campus/#alo) {{< fa solid up-right-from-square title="A webpage link icon" >}}
 [^s2_hlc_sub_pres_wksht]: [HLC Substantial Presence Worksheet](https://download.hlcommission.org/seeking-accreditation/SubstantialPresence_FRM.docx) {{< fa solid file-word title="A Word document icon" >}}
 
-## Updates:
+## Updates
+
+### 2025-07-30
+
+- Created the Actual Sample Applications section.
+- Added the links to the sample applications section.
+- Added tips for \nameref{sec-incorporation-documentation} and \nameref{sec-degree-authorization}.
+- Added tips for \nameref{sec-educational-programs-list}.
 
 ### 2025-05-13
 
