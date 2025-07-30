@@ -15,7 +15,7 @@ As part of the accelerated process[^s2_hlc_accelerated_process] application, col
 
 Here is a summary of those pieces of evidence with some tips for each:
 
-### 1. Official Communications
+### 1. Official Communications {#sec-official-communications}
 
 *All communications between the institution and its current accreditor from the past 12 months.*
 
@@ -29,25 +29,25 @@ Here is a summary of those pieces of evidence with some tips for each:
 
 - Include a screenshot from the US Department of Education's Database of Accredited Postsecondary Insittutions and Programs [https://ope.ed.gov/dapip/](https://ope.ed.gov/dapip/).
 
-### 3. Reaffirmation of Accreditation
+### 3. Reaffirmation of Accreditation {#sec-reaffirmation-of-accreditation}
 
 *Evidence of one reaffirmation of accreditation or other indicators of continuity and stability.*
 
 - The screenshot from \nameref{sec-accreditation-documentation} includes the recent history and the date of first accreditation, which satisfies this evidence as well.
 
-### 4. Sanction Status
+### 4. Sanction Status {#sec-sanction-status}
 
 *Documentation showing no sanctions or negative actions from the current accreditor for at least five years.*
 
 - The screenshot from \nameref{sec-accreditation-documentation} includes the recent history, including any sanctions or negative actions from SACSCOC.
 
-### 5. USED Approval
+### 5. USED Approval {#sec-used-approval}
 
 *Approval from the USED Federal Student Aid office for changing or maintaining multiple accreditations.*
 
 - Just include a copy of the letter received from the USED Federal Student Aid office.
 
-### 6. Substantial Presence Worksheet 
+### 6. Substantial Presence Worksheet {#sec-substantial-presence-worksheet}
 
 *Completed worksheet[^s2_hlc_sub_pres_wksht] demonstrating substantial presence within HLC’s jurisdiction.*
 
@@ -274,7 +274,7 @@ This is relatively straightforward as the institution is located in NC and serve
 
 :::
 
-### 7. Incorporation Documentation
+### 7. Incorporation Documentation {#sec-incorporation-documentation}
 
 *Proof of incorporation or operation under federal authority within HLC’s jurisdiction.*
 
@@ -290,7 +290,7 @@ Then reference NCCCS State Board Code Section 1A SBCCC 300.1 which provides defi
 Finally, reference NCCCS State Board Code Section 1A SBCCC 300.3 which defines the specific service areas for each community college in North Carolina.
 :::
 
-### 8. Degree Authorization
+### 8. Degree Authorization {#sec-degree-authorization}
 
 *Legal authorization to award degrees in at least one state or jurisdiction within HLC’s area.*
 
@@ -311,13 +311,13 @@ Make reference to NCCCS State Board Code Section 1D SBCCC 400.6 which outlines t
 - Can combine with \nameref{sec-enrollment-information} to provide a comprehensive view of the institution's educational offerings.
 - Also include the mode of delivery (e.g., in-person, online, correspondence) and the location (campus) of each program.
 
-### 10. Enrollment Information 
+### 10. Enrollment Information {#sec-enrollment-information}
 
 *Current enrollments in all educational programs by program, location, and mode of delivery.*
 
 - This can be included with the full list of programs under \nameref{sec-educational-programs-list}.
 
-### 11. Accreditor Relationships
+### 11. Accreditor Relationships {#sec-accreditor-relationships}
 
 *Inventory of relationships with other recognized accreditors, including any sanctions or adverse actions.*
 
@@ -326,7 +326,7 @@ Make reference to NCCCS State Board Code Section 1D SBCCC 400.6 which outlines t
 - This is just a list of these relationships and does not include any documentation. It should include the name of the program, the accreditor, and the date of the last review or action, and the current standing.
 - You may consider including documentation for any adverse actions or sanctions.
 
-### 12. Governing Board Authorization
+### 12. Governing Board Authorization {}
 
 *Documentation indicating the governing board’s authorization to seek accreditation with HLC.*
 
@@ -341,17 +341,17 @@ Make reference to NCCCS State Board Code Section 1D SBCCC 400.6 which outlines t
             - [2025-05-07 NCCCS Notification Letter](documents/2025-05-07 HCC - NCCCS Notification Letter.pdf)
         - NOTE: Letters were sent the day after the board meeting and HLC was notified of the intent to apply via the [HLC Inquiry Form](https://www.hlcommission.org/accreditation/begin-your-accreditation-journey/seeking-accreditation-inquiry-form/).
 
-## Other Resources
+## Other Resources {#sec-other-resources}
 
 See [Resources](..\resources.qmd) for more details.
 
 - Seeking Accreditation Workshop handout
 
-## Other topics of interest
+## Other topics of interest {#sec-other-topics}
 
 - Learn about the responsibilities of the Accreditation Liaison Office[^s2_hlc_alo]
 
-## Actual Sample Applications
+## Actual Sample Applications {#sec-actual-sample-applications}
 
 ### Haywood Community College
 
