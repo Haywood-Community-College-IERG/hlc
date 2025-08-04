@@ -355,8 +355,8 @@ See [Resources](..\resources.qmd) for more details.
 
 ### Haywood Community College
 
-- [2025-05-30 Application with Evidence](../documents/2025-05-30 HCC - Haywood CC Application with Evidence.pdf)
-- [2025-06-20 Application Acceptance Letter](../documents/2025-06-20 HLC - Application Acceptance Letter.pdf)
+- [2025-05-30 Application with Evidence](../documents/2025-05-30 HCC - Haywood CC Application with Evidence.pdf) {{< fa solid file-pdf title="A PDF document" >}}
+- [2025-06-20 Application Acceptance Letter](../documents/2025-06-20 HLC - Application Acceptance Letter.pdf) {{< fa solid file-pdf title="A PDF document" >}}
 
 ## Resources
 

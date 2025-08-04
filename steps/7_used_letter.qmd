@@ -1,0 +1,26 @@
+# Step 7. Letter to Department of Education request final change of accreditor 
+
+Per communication with the Department of Education, the college will submit an e-App request with the associated documentation to request a final change of accreditor. 
+
+The college will need to provide the following information:
+
+- Reasonable cause determination letter from the Department of Education
+- Voluntary withdrawal acceptance letter 
+- New accreditor's letter of recognition
+
+The request is a "routine matter" and the new accreditor will be effective "based on the determination letter and their letter of recognition". It may take some time to reflect that change in their system, but the college will be accredited by the new accreditor immediately.
+
+## Resources
+
+- [Email to Haywood CC](../documents/2025-08-02 EML - USED - Switching Accreditors.pdf) {{< fa solid file-pdf title="A PDF document icon" >}}
+
+::: {.callout-note appearance="simple"}
+## Icon Reference
+
+- {{< fa solid file-excel title="An Excel document icon" >}} - Excel document 
+- {{< fa solid up-right-from-square title="A webpage link icon" >}} - Webpage link 
+- {{< fa solid file-pdf title="A PDF document icon" >}} - PDF document 
+- {{< fa solid folder-tree title="A policy link or document icon" >}} - Policy link or document
+- {{< fa solid video title="A video link icon" >}} - Video link
+- {{< fa solid file-word title="A Word document icon" >}} - Word document
+:::

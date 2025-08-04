@@ -1,0 +1,99 @@
+# Step 3. HLC Preliminary Peer Review
+
+:: {.callout-important}
+Once the college's application is accepted, the college will receive a letter of notification from HLC (see \nameref{sec-actual-samples}). 
+This letter is a crucial step in the accreditation process, as it outlines the college's qualifications and details the next steps for the Preliminary Peer Review.
+The letter will also remind the college of its current accreditation obligations and the importance of reporting any substantive changes.
+Finally, the letter includes instructions for coordinating timelines, assigning a Primary Filing Coordinator, and paying required fees.
+
+Once this letter is received, the college should identify the Primary Filing Coordinator, who will be the main point of contact for HLC, and notify HLC of this person’s name and contact information.
+The college should also determine the date for the preliminary peer review and notify HLC of this date. This will trigger the creation of the college's Canopy account and reporting portal.
+
+Here is a sample notification  (yes, the notification is as simple as this):
+
+```
+I will be managing \<College Name>’s Assurance Filing area within Canopy. At this time, we would like to select <Date - must be a Monday> as our Preliminary Peer Review submission date.
+
+\<Full Name>
+\<Email Address>
+
+Thank you,
+\<Signature>
+```
+:::
+
+## Preparing for the Preliminary Peer Review
+
+### Presenting to campus
+
+To begin the process, the college may consider preparing a presentation for the campus community. This presentation will likely include:
+
+- An overview of the accreditation process
+- The importance of the Preliminary Peer Review
+- The timeline for the Preliminary Peer Review
+- The expectations for the campus community during the Preliminary Peer Review
+
+Sample presentations can be found below (see \nameref{sec-actual-samples}).
+
+### Preparing the Assurance Filing
+
+The college will need to prepare its Assurance Filing, which is a comprehensive document that demonstrates the college's compliance with HLC's Criteria for Accreditation. 
+For the Preliminary Peer Review, the Assurance Filing will include:
+
+- A narrative addressing each of HLC's Criteria for Accreditation, at the summary level
+- Evidence supporting the narrative, including policies, procedures, and other documentation
+- A completed Eligibility Requirements Form
+- A completed Assumed Practices Form
+- A completed Institutional Data Form
+
+### Evidence Collection
+
+The college will need to collect evidence to support its narrative response to HLC's Criteria for Accreditation. 
+The college should ensure evidence is as clear and supportive as possible, and that it is organized in a way that makes it easy for HLC reviewers to find and understand.
+
+### Submitting the Assurance Filing
+
+The college will submit its Assurance Filing through HLC's Canopy reporting portal.
+
+## Components of the Preliminary Peer Review
+
+### Response to the Criteria for Accreditation
+
+The college will need to provide a narrative response to each of HLC's Criteria for Accreditation.
+
+### Eligibility Requirements Form
+
+The college will need to complete the Eligibility Requirements Form, which outlines the college's compliance with HLC's eligibility requirements for accreditation.
+
+### Assumed Practices Form
+
+The college will need to complete the Assumed Practices Form, which outlines the college's compliance with HLC's assumed practices for accreditation.
+
+### Institutional Data Form
+
+The college will need to complete the Institutional Data Form, which provides HLC with key institutional data, including enrollment, financial information, and other relevant data.
+
+
+## Actual Samples {#sec-actual-samples}
+
+### Haywood Community College
+
+- [2025-06-20 Application Acceptance Letter](../documents/2025-06-20 HLC - Application Acceptance Letter.pdf) {{< fa solid file-pdf title="A PDF document" >}}
+- [2025-06-20 Preliminary Peer Review Presentation](../documents/2025-06-20 HLC - Preliminary Peer Review Presentation.pptx) {{< fa solid file-powerpoint title="A PowerPoint document" >}}
+
+## Resources
+
+- [HLC Accelerated Process for Initial Accreditation](https://download.hlcommission.org/seeking-accreditation/AcceleratedInitialAccreditation_PRC.pdf) {{< fa solid file-pdf title="A PDF document" >}}
+- [HLC Dues and Fees Schedule](https://www.hlcommission.org/accreditation/dues-and-fees-schedule/) {{< fa solid up-right-from-square title="A webpage link icon" >}}
+
+::: {.callout-note appearance="simple"}
+## Icon Reference
+
+- {{< fa solid file-excel title="An Excel document icon" >}} - Excel document 
+- {{< fa solid up-right-from-square title="A webpage link icon" >}} - Webpage link 
+- {{< fa solid file-pdf title="A PDF document icon" >}} - PDF document 
+- {{< fa solid folder-tree title="A policy link or document icon" >}} - Policy link or document
+- {{< fa solid video title="A video link icon" >}} - Video link
+- {{< fa solid file-word title="A Word document icon" >}} - Word document
+:::
+
