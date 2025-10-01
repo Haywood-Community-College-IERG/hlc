@@ -3,7 +3,11 @@ mermaid_theme1: "%%{init: { 'theme': 'forest' } }%%"
 ---
 # Timeline
 
-## SACSCOC to HLC Transition Timeline
+## SACSCOC to HLC Transition Timeline 
+
+This timeline is based on the actual timeline of a community college that is transitioning from SACSCOC to HLC accreditation. It includes key milestones and deadlines that institutions should consider when planning their transition. 
+
+This timeline is adjusted as the institution progresses through the transition process.
 
 ![](images/generic-cc-project-timeline.png)
 
@@ -14,3 +18,7 @@ mermaid_theme1: "%%{init: { 'theme': 'forest' } }%%"
 Full timeline examples:
 
 - [2024-07-17 HCC - Project timeline with milestones](documents/2024-07-17 HCC - Project timeline with milestones HLC.pdf)
+
+::: {.callout-note title="Important Timeline Note"}
+This timeline is illustrative. Each institution's transition will vary based on its unique context, readiness, and governance processes. Use this as a starting point and adapt as needed. Also note, dates may shift based on accreditor feedback, internal readiness reviews, and governance approvals. Review and update monthly.
+:::
